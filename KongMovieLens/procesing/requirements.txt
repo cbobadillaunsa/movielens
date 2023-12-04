@@ -1,0 +1,6 @@
+Flask
+Redis
+gunicorn
+flask-cors
+confluent_kafka
+dask
